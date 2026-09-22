@@ -17,9 +17,16 @@ A beginner Python project that checks and rates a password's strength and return
   - Python
   - Pycharm
 
-# what I learned
+# What I learned
 - using "if" statements and loops
 - Working with strings and user input
 - Using Python to perform basic security checks
 
+# Example
 
+The program asks the user to enter a password and then checks its security.
+
+Example:
+- Password: 'ST117h#r'
+- Security score: 5/5
+- Rating: strong
